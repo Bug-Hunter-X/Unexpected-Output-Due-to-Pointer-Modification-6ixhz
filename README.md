@@ -1,0 +1,1 @@
+This repository showcases a common C programming error involving pointer arithmetic and unexpected variable modification. The `bug.c` file contains the erroneous code, which modifies a variable indirectly via a pointer. The `bugSolution.c` demonstrates the corrected code and how to avoid this type of bug.
